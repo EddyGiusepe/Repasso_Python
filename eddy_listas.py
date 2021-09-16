@@ -62,4 +62,37 @@ if 2 in lista1:
 else:
     print("O número que deseja eliminar, não existe.")        
 
+print("###############")
+print("## Exemplo_3 ##")
+print("###############")
+
+print("Suponhamos, novamente, que temos uma lista vazia. Assim: ")
+lista2 = []
+lista2.append(5)
+lista2.append(9)
+lista2.append(4)
+
+for v in lista2:
+    print(f'{v} ... ', end='')
+    
+print("")
+print(lista2)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
