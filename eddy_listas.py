@@ -49,8 +49,17 @@ print(lista1)
 print("Da nossa atual lista, vou eliminar o número '1' da posição '4', assim:")
 lista1.pop(4)
 print(lista1)
+print("Agora vamos a REMOVER um elemento da nossa lista atual. Ele remove o elemento que colocamos dentro do parêntesis: ")
+lista1.remove(3) # removemos o número "3"
+print(lista1)
+print("")
+print("Agora vamos 'tentar remover' um elemento que não se encontra em nossa lista, assim: ")
+print("")
 
-
-
+if 2 in lista1:
+    lista1.remove(2)
+    print("O número foi eliminado!")
+else:
+    print("O número que deseja eliminar, não existe.")        
 
 
