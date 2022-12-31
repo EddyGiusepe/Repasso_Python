@@ -1,6 +1,7 @@
 '''
 Data Scientist.: Dr.Eddy Giusepe Chirinos Isidro
 '''
+# Link de estudo --> https://cadernoscicomp.com.br/tutorial/matplot-e-pandas/pandas-lendo-arquivos-texto-csv-matplot-inserindo-anotacoes-e-texto-no-grafico/
 import pandas as pd
 import matplotlib.pyplot as plt
 
