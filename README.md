@@ -4,4 +4,6 @@ Aqui mostramos alguns scripts em Python. Basicamente estes scripts são para lem
 
 
 
+
+
 Thanks God!
